@@ -9,7 +9,7 @@ style: """
   -webkit-font-smoothing: antialiased
   font: 10px Osaka-Mono
   top: 5px
-  right: 145px
+  right: 5px
   color: #FABD2F
   span
     color: #9C9486
